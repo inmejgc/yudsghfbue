@@ -11,7 +11,7 @@
 "user": ["oFMjH6JiO5hTYPQUZeWpwB6z-76c"],
  
 # 信息配置
-# 和风天气apikey
+# 高德天气apikey
 "weather_key": "d50b5e354dbf6f2dd24fc75e76eb96ba",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "黄山市",
