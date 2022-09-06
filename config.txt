@@ -11,10 +11,10 @@
 "user": ["oFMjH6JiO5hTYPQUZeWpwB6z-76c"],
  
 # 信息配置
-# 风和天气apikey
-"weather_key": "47416d08a2f54d7782df9aeb23e00f80",
-# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "黄山市",
+# 所在省份
+"province": "安徽",
+# 所在城市
+"city": "黄山市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "宝宝", "birthday": "r1994-06-03"},
 # 生日2
